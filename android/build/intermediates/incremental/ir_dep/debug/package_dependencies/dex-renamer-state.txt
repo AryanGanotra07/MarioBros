@@ -1,0 +1,4 @@
+#Wed Jan 09 17:31:17 IST 2019
+base.0=/Users/aryan/Downloads/mariobros/android/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
